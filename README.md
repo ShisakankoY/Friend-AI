@@ -38,7 +38,7 @@ MITライセンス使用、ご注意ください。
 
 htmlファイルに以下を記入してください。
 
-`<script src="https://shisakankoy.github.io/Friend-AI/friend-ai.js">`;
+`<script src="https://shisakankoy.github.io/Friend-AI/friend-ai.js">`
 
 // English
 
@@ -85,4 +85,4 @@ Inference
 Please add the following to your HTML file.
 
 
-`<script src="https://shisakankoy.github.io/Friend-AI/friend-ai.js">`;
+`<script src="https://shisakankoy.github.io/Friend-AI/friend-ai.js">`
