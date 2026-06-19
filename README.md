@@ -19,7 +19,7 @@ MITライセンス使用、ご注意ください。
 
 `ai.dataSet(input, answer);`
 
-* 教師データは、二次元配列として、直書きの上、代入してください。
+* inputは、二次元配列として、直書きの上、代入してください。answerも直書きの上、代入してください。
 
 学習
 
@@ -63,7 +63,7 @@ Dataset
 
 `ai.dataSet(input, answer);`
 
-* Please hardcode the training data as a two-dimensional array and assign it.
+* Please hardcode the input as a two-dimensional array and assign the value accordingly. Please hardcode the answer as well and assign the value accordingly.
 
 Training
 
